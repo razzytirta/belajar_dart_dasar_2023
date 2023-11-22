@@ -1,4 +1,4 @@
-import 'package:belajar_dart_dasar_2023/belajar_dart_dasar_2023.dart';
+import '../lib/belajar_dart_dasar_2023.dart';
 import 'package:test/test.dart';
 
 void main() {
